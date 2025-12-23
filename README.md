@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/zReveerb.png" alt="Heitor Lucena" width="180" height="180" style="border-radius: 50%; border: 3px solid #61dafb;">
+  <img src="https://github.com/hglucena.png" alt="Heitor Lucena" width="180" height="180" style="border-radius: 50%; border: 3px solid #61dafb;">
 
   # Meu nome é Heitor Lucena
   
