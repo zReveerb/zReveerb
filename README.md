@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="perfil.jpeg" alt="Heitor Lucena" width="180" height="180" style="border-radius: 50%; border: 3px solid #61dafb;">
+  <img src="https://github.com/zReveerb.png" alt="Heitor Lucena" width="180" height="180" style="border-radius: 50%; border: 3px solid #61dafb;">
 
   # Meu nome é Heitor Lucena
   
@@ -18,8 +18,7 @@
 </div>
 
 ---
-
-###Sobre mim
+### Sobre mim
 
 Tenho foco em resolver problemas complexos através de **Data Science** e programação de baixo e alto nível. Atualmente estudando **Machine Learning**, **Processamento de Linguagem Natural (NLP)** e **Flask/Django**.
 
